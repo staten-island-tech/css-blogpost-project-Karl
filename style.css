@@ -1,0 +1,22 @@
+body{
+    font-family: 'Bitter', serif;
+    background-color: beige;
+    text-align: center;
+    }
+    
+    .header {
+        color: red;
+        
+        
+    }
+
+    .subheader {
+        color: brown;
+        height: 50vh;
+        border: 8px solid blue;
+        margin: 0px auto;
+    }
+
+    a {
+
+    }
