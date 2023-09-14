@@ -1,22 +1,32 @@
 body{
     font-family: 'Bitter', serif;
-    background-color: beige;
+    background-color: rgb(206, 247, 136);
     text-align: center;
     }
     
     .header {
         color: red;
-        
+        height: 20vh;
         
     }
 
-    .subheader {
+    .blog {
+
+    }
+
+    #subheader {
         color: brown;
-        height: 50vh;
-        border: 8px solid blue;
+        height: 5vh;
+        
         margin: 0px auto;
     }
 
-    a {
-
+    #Links {
+        text-align: center;
     }
+
+    #images {
+        height: 600px;
+        margin: 10vh;
+    }
+
