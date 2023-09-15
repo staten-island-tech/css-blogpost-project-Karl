@@ -1,24 +1,34 @@
 body{
     font-family: 'Bitter', serif;
     background-color: rgb(206, 247, 136);
+    
     text-align: center;
     }
     
     .header {
         color: red;
-        height: 20vh;
+        background-color: black;
+        padding: 3vh;
+
         
     }
 
     .blog {
-
+        margin-left: 50px;
+        margin-right: 50px;
+        border: 20vh;
     }
 
     #subheader {
         color: brown;
         height: 5vh;
-        
-        margin: 0px auto;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    #Descriptions {
+        margin-left: 50px;
+        margin-right: 50px;
     }
 
     #Links {
@@ -26,7 +36,9 @@ body{
     }
 
     #images {
-        height: 600px;
-        margin: 10vh;
+       
+    align-items: center;
+        
     }
 
+    
