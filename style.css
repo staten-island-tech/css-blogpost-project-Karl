@@ -1,44 +1,47 @@
 body{
     font-family: 'Bitter', serif;
-    background-color: rgb(206, 247, 136);
-    
+    background-color: aquamarine;
     text-align: center;
     }
     
     .header {
         color: red;
-        background-color: black;
-        padding: 3vh;
-
-        
+        height: 7vh;
+        margin-top: 2vh;
+        padding-top: 3vh;
+        background-image: url(https://img.freepik.com/free-vector/v915_53876-174949.jpg?w=1380&t=st=1694811358~exp=1694811958~hmac=6cdee28e58681775eace3f9fe3b6cdfbc717e8d9ba3f8b8429f713de5b1529f6);
     }
 
     .blog {
-        margin-left: 50px;
-        margin-right: 50px;
-        border: 20vh;
+        border: 4px orange solid;
+        margin-left: 15vw;
+        margin-right: 15vw;
+    }
+
+    .Break {
+        border-top: 4px dashed green;
+        width: 69%;
     }
 
     #subheader {
         color: brown;
-        height: 5vh;
-        margin-left: 50px;
-        margin-right: 50px;
-    }
-
-    #Descriptions {
-        margin-left: 50px;
-        margin-right: 50px;
+        height: 3vh;
+        padding-top: 5vh;
+        margin: 0px auto;
     }
 
     #Links {
         text-align: center;
     }
 
-    #images {
-       
-    align-items: center;
-        
+    #Images {
+        width: 80vh;
+        padding-bottom: 2vh;
+        padding-top: 1vh;
     }
 
-    
+    #Descriptions {
+        text-align: center;
+    padding-inline-start: 20vw;
+    padding-inline-end: 20vw;
+    }
