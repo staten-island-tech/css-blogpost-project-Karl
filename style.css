@@ -11,9 +11,14 @@ body{
     
     .header {
         color: red;
-        height: 7vh;
-        margin-top: 2vh;
+        text-align: center;
+        max-height: 10vh;
         padding-top: 3vh;
+        padding-bottom: 2vh;
+        position: absolute;
+        top: -30;
+        left: 30;
+        right: 30;
         background-image: url(https://img.freepik.com/free-vector/v915_53876-174949.jpg?w=1380&t=st=1694811358~exp=1694811958~hmac=6cdee28e58681775eace3f9fe3b6cdfbc717e8d9ba3f8b8429f713de5b1529f6);
     }
 
@@ -21,11 +26,13 @@ body{
         border: 4px orange solid;
         margin-left: 15vw;
         margin-right: 15vw;
+        margin-top: 10vh;
     }
 
     .Break {
         border-top: 4px dashed green;
         width: 69%;
+        margin-top: 8vh;
     }
 
     #subheader {
